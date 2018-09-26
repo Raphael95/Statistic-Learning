@@ -22,7 +22,8 @@ matplotlib  |  2.1.1
 - DBSCAN
 - K-Means
 
-***
-- the data are in the data folder
-- reading data path in every file may need to be revised on windows operation system
+
+## tips
+1. the data are in the data folder
+2. reading data path in every file may need to be revised on windows operation system
 
